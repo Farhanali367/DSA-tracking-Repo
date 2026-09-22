@@ -10,8 +10,13 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3525-find-x-value-of-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3903-smallest-stable-index-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3525-find-x-value-of-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
