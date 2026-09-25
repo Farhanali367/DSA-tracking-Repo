@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -42,4 +43,24 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
