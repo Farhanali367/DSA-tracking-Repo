@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -57,6 +58,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
