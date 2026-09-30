@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0219-contains-duplicate-ii) |
 | [1096-brace-expansion-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -43,6 +45,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
