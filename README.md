@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0219-contains-duplicate-ii) |
@@ -103,4 +104,20 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
