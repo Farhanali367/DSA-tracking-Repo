@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0070-climbing-stairs) |
 | [3525-find-x-value-of-array-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0678-valid-parenthesis-string) |
@@ -149,4 +151,8 @@
 | [0678-valid-parenthesis-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
