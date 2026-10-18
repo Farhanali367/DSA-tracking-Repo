@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3525-find-x-value-of-array-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -18,6 +19,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0219-contains-duplicate-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -73,6 +75,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
@@ -152,18 +155,22 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +185,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -191,4 +199,16 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
