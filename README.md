@@ -10,6 +10,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3903-smallest-stable-index-i) |
 ## Segment Tree
 |  |
@@ -130,6 +132,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3886-sum-of-sortable-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
