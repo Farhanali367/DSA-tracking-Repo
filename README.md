@@ -38,6 +38,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3903-smallest-stable-index-i) |
@@ -48,6 +49,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
@@ -172,17 +175,20 @@
 | [0078-subsets](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -222,6 +228,7 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -241,4 +248,5 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
