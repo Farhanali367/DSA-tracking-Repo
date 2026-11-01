@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2409-count-days-spent-together) |
 | [3525-find-x-value-of-array-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3525-find-x-value-of-array-ii) |
@@ -21,6 +22,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0219-contains-duplicate-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
