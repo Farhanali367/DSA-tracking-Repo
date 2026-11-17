@@ -118,6 +118,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3693-climbing-stairs-ii) |
@@ -140,6 +141,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -307,6 +309,7 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Farhanali367/DSA-tracking-Repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Counting
 |  |
 | ------- |
